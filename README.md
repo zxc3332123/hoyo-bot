@@ -1,2 +1,2 @@
 # hoyo-bot
-hoyolab 原神、崩鐵discord通知
+hoyolab 原神discord通知
